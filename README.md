@@ -8,7 +8,7 @@ This is a public resource, so expect any submissions to be public.
 
 Feel free to list multiple sites!
 
-| Member Name            | Site Name /              | URL                            | Feed URL                                |
+| Member Name            | Site Name                | URL                            | Feed URL                                |
 | ---------------------- | ------------------------ | ------------------------------ | --------------------------------------- |
 | Alex Hillman           | Dangerously Awesome      | https://dangerouslyawesome.com | https://dangerouslyawesome.com/feed.xml |
 | Alex Hillman / Amy Hoy | Stacking the Bricks      | https://stackingthebricks.com/ | https://stackingthebricks.com/rss.xml   |
