@@ -1,6 +1,6 @@
 # IndyHall Blogger Index
 
-An adhoc list of the blogs and website of [IndyHall](https://indyhall.org) members.
+An adhoc list of the blogs and websites of [IndyHall](https://indyhall.org) members.
 
 Pull requests and edits very welcome. Let's try to keep the list in alphabetical order by last name.
 
