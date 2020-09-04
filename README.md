@@ -13,6 +13,7 @@ Feel free to list multiple sites!
 | Alex Hillman           | Dangerously Awesome       | https://dangerouslyawesome.com | https://dangerouslyawesome.com/feed.xml |
 | Alex Hillman / Amy Hoy | Stacking the Bricks       | https://stackingthebricks.com/ | https://stackingthebricks.com/rss.xml   |
 | Pam Selle              | Pam The Webivore          | https://thewebivore.com/       | https://thewebivore.com/feed/           |
+| Thomas Cannon          | Thomas Cannon             | https://thomascannon.me        | https://thomascannon.me/feeds/posts.xml |
 | Jag Talon              | Adventures in technology. | https://jagtalon.com           | https://jagtalon.com/feed/              |
 | Mike Zornek            | Personal Blog             | http://mikezornek.com          | http://mikezornek.com/posts/index.xml   |
 | Mike Zornek            | Guildflow (Product Blog)  | https://guildflow.com          | https://guildflow.com/blog/index.xml    |
