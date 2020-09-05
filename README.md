@@ -8,15 +8,17 @@ This is a public resource, so expect any submissions to be public.
 
 Feel free to list multiple sites!
 
-| Member Name            | Site Name                 | URL                            | Feed URL                                |
-| ---------------------- | ------------------------- | ------------------------------ | --------------------------------------- |
-| Thomas Cannon          | Thomas Cannon             | https://thomascannon.me        | https://thomascannon.me/feeds/posts.xml |
-| John Fahl              | The Dark Writer           | https://thedarkwriter.io       | https://thedarkwriter.io                |
-| John Fahl              | Author site (needs update)| https://jvfahl.com             | https://jvfahl.com/blog/                |
-| John Fahl              | Blog Site                 | https://medium.com/@jvftuo     | https://medium.com/@jvftuo              |
-| Alex Hillman           | Dangerously Awesome       | https://dangerouslyawesome.com | https://dangerouslyawesome.com/feed.xml |
-| Alex Hillman / Amy Hoy | Stacking the Bricks       | https://stackingthebricks.com/ | https://stackingthebricks.com/rss.xml   |
-| Pam Selle              | Pam The Webivore          | https://thewebivore.com/       | https://thewebivore.com/feed/           |
-| Jag Talon              | Adventures in technology. | https://jagtalon.com           | https://jagtalon.com/feed/              |
-| Mike Zornek            | Personal Blog             | http://mikezornek.com          | http://mikezornek.com/posts/index.xml   |
-| Mike Zornek            | Guildflow (Product Blog)  | https://guildflow.com          | https://guildflow.com/blog/index.xml    |
+| Member Name            | Site Name                  | URL                              | Feed URL                                |
+| ---------------------- | -------------------------- | -------------------------------- | --------------------------------------- |
+| Thomas Cannon          | Thomas Cannon              | https://thomascannon.me          | https://thomascannon.me/feeds/posts.xml |
+| John Fahl              | The Dark Writer            | https://thedarkwriter.io         | https://thedarkwriter.io                |
+| John Fahl              | Author site (needs update) | https://jvfahl.com               | https://jvfahl.com/blog/                |
+| John Fahl              | Blog Site                  | https://medium.com/@jvftuo       | https://medium.com/@jvftuo              |
+| Seth Goldstein         | Company Blog               | https://goldsteinmedia.com/blog/ | https://goldsteinmedia.com/feed/        |
+| Seth Goldstein         | Personal Blog              | https://sethgoldstein.me/blog    | https://sethgoldstein.me/feed/          |
+| Alex Hillman           | Dangerously Awesome        | https://dangerouslyawesome.com   | https://dangerouslyawesome.com/feed.xml |
+| Alex Hillman / Amy Hoy | Stacking the Bricks        | https://stackingthebricks.com/   | https://stackingthebricks.com/rss.xml   |
+| Pam Selle              | Pam The Webivore           | https://thewebivore.com/         | https://thewebivore.com/feed/           |
+| Jag Talon              | Adventures in technology.  | https://jagtalon.com             | https://jagtalon.com/feed/              |
+| Mike Zornek            | Personal Blog              | http://mikezornek.com            | http://mikezornek.com/posts/index.xml   |
+| Mike Zornek            | Guildflow (Product Blog)   | https://guildflow.com            | https://guildflow.com/blog/index.xml    |
